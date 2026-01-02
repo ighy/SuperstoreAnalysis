@@ -1,5 +1,5 @@
 # Retail Superstore Operations Analysis
-## Soham Jani, Winter Break 2025-26
+## Soham Jani, Winter 2025-26
 
 ### Project Overview
 This project provides a data-driven deep dive into the operations of a national retail superstore from 2015–2018. By integrating SQL for data extraction and Python for advanced visualization, I analyzed growth trajectories, seasonal trends, and geographical market share to identify the core drivers of the business.
