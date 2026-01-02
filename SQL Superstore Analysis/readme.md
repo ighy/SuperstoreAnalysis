@@ -3,7 +3,7 @@
 
 ### Project Overview
 This project provides a data-driven deep dive into the operations of a national retail superstore from 2015–2018. By integrating SQL for data extraction and Python for advanced visualization, I analyzed growth trajectories, seasonal trends, and geographical market share to identify the core drivers of the business.
-*** Dataset Used: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting?resource=download ***
+* Dataset Used: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting?resource=download
 
 ### Technical Tools
 SQL: Performed complex aggregations, window functions for ranking, and multi-year comparisons.
